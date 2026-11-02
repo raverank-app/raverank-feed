@@ -154,7 +154,7 @@
         },
         {
             "day": "2026-11-06",
-            "end": "18:47",
+            "end": "18:44",
             "stage": "kineticFIELD",
             "start": "17:28",
             "sunset": true,
@@ -210,7 +210,7 @@
         },
         {
             "day": "2026-11-06",
-            "end": "20:00",
+            "end": "19:57",
             "stage": "kineticFIELD",
             "start": "18:47",
             "sunset": false,
@@ -242,7 +242,7 @@
         },
         {
             "day": "2026-11-06",
-            "end": "21:13",
+            "end": "21:10",
             "stage": "kineticFIELD",
             "start": "20:00",
             "sunset": false,
@@ -282,7 +282,7 @@
         },
         {
             "day": "2026-11-06",
-            "end": "22:31",
+            "end": "22:28",
             "stage": "kineticFIELD",
             "start": "21:13",
             "sunset": false,
@@ -330,7 +330,7 @@
         },
         {
             "day": "2026-11-06",
-            "end": "00:00",
+            "end": "23:57",
             "stage": "kineticFIELD",
             "start": "22:31",
             "sunset": false,
@@ -546,7 +546,7 @@
         },
         {
             "day": "2026-11-07",
-            "end": "18:57",
+            "end": "18:53",
             "stage": "kineticFIELD",
             "start": "17:38",
             "sunset": true,
@@ -578,7 +578,7 @@
         },
         {
             "day": "2026-11-07",
-            "end": "20:05",
+            "end": "20:02",
             "stage": "kineticFIELD",
             "start": "18:57",
             "sunset": false,
@@ -618,7 +618,7 @@
         },
         {
             "day": "2026-11-07",
-            "end": "21:13",
+            "end": "21:10",
             "stage": "kineticFIELD",
             "start": "20:05",
             "sunset": false,
@@ -650,7 +650,7 @@
         },
         {
             "day": "2026-11-07",
-            "end": "22:31",
+            "end": "22:28",
             "stage": "kineticFIELD",
             "start": "21:13",
             "sunset": false,
@@ -698,7 +698,7 @@
         },
         {
             "day": "2026-11-07",
-            "end": "00:00",
+            "end": "23:57",
             "stage": "kineticFIELD",
             "start": "22:31",
             "sunset": false,
@@ -754,9 +754,9 @@
         },
         {
             "day": "2026-11-08",
-            "end": "14:25",
-            "stage": "circuitGROUNDS",
-            "start": "13:10",
+            "end": null,
+            "stage": null,
+            "start": null,
             "sunset": false,
             "billing": "Bella Grazia"
         },
@@ -802,7 +802,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "16:30",
+            "end": "16:00",
             "stage": "CASA BACARDÍ",
             "start": "15:00",
             "sunset": false,
@@ -890,7 +890,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "18:54",
+            "end": "18:51",
             "stage": "kineticFIELD",
             "start": "17:35",
             "sunset": true,
@@ -930,7 +930,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "20:02",
+            "end": "19:59",
             "stage": "kineticFIELD",
             "start": "18:54",
             "sunset": false,
@@ -970,7 +970,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "21:15",
+            "end": "21:12",
             "stage": "kineticFIELD",
             "start": "20:02",
             "sunset": false,
@@ -1010,7 +1010,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "22:28",
+            "end": "22:25",
             "stage": "kineticFIELD",
             "start": "21:15",
             "sunset": false,
@@ -1034,7 +1034,7 @@
         },
         {
             "day": "2026-11-08",
-            "end": "00:00",
+            "end": "23:57",
             "stage": "kineticFIELD",
             "start": "22:28",
             "sunset": false,
@@ -1074,11 +1074,19 @@
         },
         {
             "day": "2026-11-08",
-            "end": null,
-            "stage": null,
-            "start": null,
+            "end": "14:25",
+            "stage": "circuitGROUNDS",
+            "start": "13:10",
             "sunset": false,
             "billing": "Discovery Project"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "19:00",
+            "stage": "neonGARDEN",
+            "start": "17:30",
+            "sunset": true,
+            "billing": "Luke Dean B2B George Smeddles"
         }
     ]
 }
