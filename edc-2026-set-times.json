@@ -2,43 +2,51 @@
     "slots": [
         {
             "day": "2026-11-06",
-            "end": "15:30",
-            "stage": "stereoBLOOM",
-            "start": "14:15",
+            "end": "14:25",
+            "stage": "kineticFIELD",
+            "start": "13:00",
             "sunset": false,
-            "billing": "AAT"
+            "billing": "Zack Martino"
         },
         {
             "day": "2026-11-06",
-            "end": "18:30",
+            "end": "14:15",
             "stage": "circuitGROUNDS",
-            "start": "17:30",
-            "sunset": true,
-            "billing": "Adventure Club"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "21:13",
-            "stage": "kineticFIELD",
-            "start": "20:00",
+            "start": "13:00",
             "sunset": false,
-            "billing": "Afrojack"
+            "billing": "Sloth"
         },
         {
             "day": "2026-11-06",
-            "end": "18:47",
-            "stage": "kineticFIELD",
-            "start": "17:28",
-            "sunset": true,
-            "billing": "Alesso"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "18:00",
+            "end": "15:00",
             "stage": "neonGARDEN",
-            "start": "16:30",
+            "start": "13:00",
             "sunset": false,
-            "billing": "Azzecca"
+            "billing": "Matthias"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "14:15",
+            "stage": "stereoBLOOM",
+            "start": "13:00",
+            "sunset": false,
+            "billing": "Raje"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "14:00",
+            "stage": "CASA BACARDÍ",
+            "start": "13:00",
+            "sunset": false,
+            "billing": "2AR"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "15:00",
+            "stage": "CASA BACARDÍ",
+            "start": "14:00",
+            "sunset": false,
+            "billing": "Seeing Double"
         },
         {
             "day": "2026-11-06",
@@ -50,51 +58,35 @@
         },
         {
             "day": "2026-11-06",
-            "end": "16:30",
-            "stage": "circuitGROUNDS",
-            "start": "15:30",
-            "sunset": false,
-            "billing": "Big Florida"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "19:30",
-            "stage": "circuitGROUNDS",
-            "start": "18:30",
-            "sunset": false,
-            "billing": "Bou B2B Kanine"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "22:30",
-            "stage": "neonGARDEN",
-            "start": "21:00",
-            "sunset": true,
-            "billing": "Brunello"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "20:00",
+            "end": "15:30",
             "stage": "stereoBLOOM",
-            "start": "18:45",
+            "start": "14:15",
             "sunset": false,
-            "billing": "Bullet Tooth B2B Sidney Charles"
+            "billing": "AAT"
         },
         {
             "day": "2026-11-06",
-            "end": "00:00",
-            "stage": "stereoBLOOM",
-            "start": "22:30",
-            "sunset": false,
-            "billing": "Chris Lorenzo"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "00:00",
+            "end": "15:25",
             "stage": "kineticFIELD",
-            "start": "22:31",
+            "start": "14:25",
             "sunset": false,
-            "billing": "David Guetta"
+            "billing": "Joa"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "16:30",
+            "stage": "neonGARDEN",
+            "start": "15:00",
+            "sunset": false,
+            "billing": "Inbal"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "16:30",
+            "stage": "CASA BACARDÍ",
+            "start": "15:00",
+            "sunset": false,
+            "billing": "Night Tales"
         },
         {
             "day": "2026-11-06",
@@ -107,6 +99,14 @@
         {
             "day": "2026-11-06",
             "end": "16:30",
+            "stage": "circuitGROUNDS",
+            "start": "15:30",
+            "sunset": false,
+            "billing": "Big Florida"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "16:30",
             "stage": "stereoBLOOM",
             "start": "15:30",
             "sunset": false,
@@ -114,43 +114,11 @@
         },
         {
             "day": "2026-11-06",
-            "end": "16:30",
-            "stage": "neonGARDEN",
-            "start": "15:00",
-            "sunset": false,
-            "billing": "Inbal"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "21:15",
-            "stage": "stereoBLOOM",
-            "start": "20:00",
-            "sunset": false,
-            "billing": "Interplanetary Criminal"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "15:25",
+            "end": "17:28",
             "stage": "kineticFIELD",
-            "start": "14:25",
+            "start": "16:25",
             "sunset": false,
-            "billing": "Joa"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "00:00",
-            "stage": "neonGARDEN",
-            "start": "22:30",
-            "sunset": false,
-            "billing": "Josh Baker"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "17:30",
-            "stage": "stereoBLOOM",
-            "start": "16:30",
-            "sunset": false,
-            "billing": "Joshwa"
+            "billing": "Pegassi"
         },
         {
             "day": "2026-11-06",
@@ -162,27 +130,43 @@
         },
         {
             "day": "2026-11-06",
-            "end": "20:00",
+            "end": "18:00",
+            "stage": "neonGARDEN",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Azzecca"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "17:30",
+            "stage": "stereoBLOOM",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Joshwa"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "17:45",
+            "stage": "CASA BACARDÍ",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Me n ü"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "18:47",
             "stage": "kineticFIELD",
-            "start": "18:47",
-            "sunset": false,
-            "billing": "Kream"
+            "start": "17:28",
+            "sunset": true,
+            "billing": "Alesso"
         },
         {
             "day": "2026-11-06",
-            "end": "20:30",
+            "end": "18:30",
             "stage": "circuitGROUNDS",
-            "start": "19:30",
-            "sunset": false,
-            "billing": "Level Up"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "22:45",
-            "stage": "circuitGROUNDS",
-            "start": "21:35",
-            "sunset": false,
-            "billing": "Levity"
+            "start": "17:30",
+            "sunset": true,
+            "billing": "Adventure Club"
         },
         {
             "day": "2026-11-06",
@@ -194,11 +178,107 @@
         },
         {
             "day": "2026-11-06",
-            "end": "15:00",
-            "stage": "neonGARDEN",
-            "start": "13:00",
+            "end": "19:00",
+            "stage": "CASA BACARDÍ",
+            "start": "17:45",
             "sunset": false,
-            "billing": "Matthias"
+            "billing": "AAT (2nd Set)"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "19:30",
+            "stage": "neonGARDEN",
+            "start": "18:00",
+            "sunset": true,
+            "billing": "Obskür"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "19:30",
+            "stage": "circuitGROUNDS",
+            "start": "18:30",
+            "sunset": false,
+            "billing": "Bou B2B Kanine"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "20:00",
+            "stage": "stereoBLOOM",
+            "start": "18:45",
+            "sunset": false,
+            "billing": "Bullet Tooth B2B Sidney Charles"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "20:00",
+            "stage": "kineticFIELD",
+            "start": "18:47",
+            "sunset": false,
+            "billing": "Kream"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "20:15",
+            "stage": "CASA BACARDÍ",
+            "start": "19:00",
+            "sunset": false,
+            "billing": "Eve Lauren"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "20:30",
+            "stage": "circuitGROUNDS",
+            "start": "19:30",
+            "sunset": false,
+            "billing": "Level Up"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "21:00",
+            "stage": "neonGARDEN",
+            "start": "19:30",
+            "sunset": false,
+            "billing": "Omar+"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "21:13",
+            "stage": "kineticFIELD",
+            "start": "20:00",
+            "sunset": false,
+            "billing": "Afrojack"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "21:15",
+            "stage": "stereoBLOOM",
+            "start": "20:00",
+            "sunset": false,
+            "billing": "Interplanetary Criminal"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "21:30",
+            "stage": "CASA BACARDÍ",
+            "start": "20:15",
+            "sunset": false,
+            "billing": "Crespo"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "21:35",
+            "stage": "circuitGROUNDS",
+            "start": "20:30",
+            "sunset": false,
+            "billing": "Whethan"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "22:30",
+            "stage": "neonGARDEN",
+            "start": "21:00",
+            "sunset": false,
+            "billing": "Brunello"
         },
         {
             "day": "2026-11-06",
@@ -218,19 +298,59 @@
         },
         {
             "day": "2026-11-06",
-            "end": "21:00",
-            "stage": "neonGARDEN",
-            "start": "19:30",
+            "end": "22:45",
+            "stage": "CASA BACARDÍ",
+            "start": "21:30",
             "sunset": false,
-            "billing": "Omar+"
+            "billing": "Kashovski"
         },
         {
             "day": "2026-11-06",
-            "end": "17:28",
-            "stage": "kineticFIELD",
-            "start": "16:25",
+            "end": "22:45",
+            "stage": "circuitGROUNDS",
+            "start": "21:35",
             "sunset": false,
-            "billing": "Pegassi"
+            "billing": "Levity"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "00:00",
+            "stage": "neonGARDEN",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "Josh Baker"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "00:00",
+            "stage": "stereoBLOOM",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "Chris Lorenzo"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "00:00",
+            "stage": "kineticFIELD",
+            "start": "22:31",
+            "sunset": false,
+            "billing": "David Guetta"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "00:00",
+            "stage": "circuitGROUNDS",
+            "start": "22:45",
+            "sunset": false,
+            "billing": "Wooli"
+        },
+        {
+            "day": "2026-11-06",
+            "end": "00:00",
+            "stage": "CASA BACARDÍ",
+            "start": "22:45",
+            "sunset": false,
+            "billing": "Chantel Jeffries"
         },
         {
             "day": "2026-11-06",
@@ -249,164 +369,12 @@
             "billing": "Prospa B2B Josh Baker"
         },
         {
-            "day": "2026-11-06",
-            "end": "14:15",
-            "stage": "stereoBLOOM",
-            "start": "13:00",
-            "sunset": false,
-            "billing": "Raje"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "14:15",
-            "stage": "circuitGROUNDS",
-            "start": "13:00",
-            "sunset": false,
-            "billing": "Sloth"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "21:35",
-            "stage": "circuitGROUNDS",
-            "start": "20:30",
-            "sunset": false,
-            "billing": "Whethan"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "00:00",
-            "stage": "circuitGROUNDS",
-            "start": "22:45",
-            "sunset": false,
-            "billing": "Wooli"
-        },
-        {
-            "day": "2026-11-06",
-            "end": "14:25",
+            "day": "2026-11-07",
+            "end": "13:33",
             "stage": "kineticFIELD",
             "start": "13:00",
             "sunset": false,
-            "billing": "Zack Martino"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "16:33",
-            "stage": "kineticFIELD",
-            "start": "15:33",
-            "sunset": false,
-            "billing": "Aaron Hibell"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "17:38",
-            "stage": "kineticFIELD",
-            "start": "16:33",
-            "sunset": false,
-            "billing": "Acraze B2B Cid"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "18:57",
-            "stage": "kineticFIELD",
-            "start": "17:38",
-            "sunset": true,
-            "billing": "Alan Walker"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "00:00",
-            "stage": "circuitGROUNDS",
-            "start": "22:45",
-            "sunset": false,
-            "billing": "Alison Wonderland"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "20:30",
-            "stage": "circuitGROUNDS",
-            "start": "19:30",
-            "sunset": false,
-            "billing": "Alleycvt"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "14:30",
-            "stage": "stereoBLOOM",
-            "start": "13:00",
-            "sunset": false,
-            "billing": "Alves"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "17:30",
-            "stage": "circuitGROUNDS",
-            "start": "16:30",
-            "sunset": false,
-            "billing": "Avello"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "22:30",
-            "stage": "stereoBLOOM",
-            "start": "21:15",
-            "sunset": false,
-            "billing": "Ayybo"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "00:00",
-            "stage": "stereoBLOOM",
-            "start": "22:30",
-            "sunset": false,
-            "billing": "Chasewest"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "22:00",
-            "stage": "neonGARDEN",
-            "start": "20:30",
-            "sunset": false,
-            "billing": "Dennis Cruz"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "18:45",
-            "stage": "stereoBLOOM",
-            "start": "17:30",
-            "sunset": true,
-            "billing": "Devault"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "20:00",
-            "stage": "stereoBLOOM",
-            "start": "18:45",
-            "sunset": false,
-            "billing": "Discip"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "22:31",
-            "stage": "kineticFIELD",
-            "start": "21:13",
-            "sunset": false,
-            "billing": "Disco Lines"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "17:30",
-            "stage": "stereoBLOOM",
-            "start": "16:30",
-            "sunset": false,
-            "billing": "Fallon"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "00:00",
-            "stage": "neonGARDEN",
-            "start": "22:00",
-            "sunset": false,
-            "billing": "Franky Rizardo"
+            "billing": "Monoky"
         },
         {
             "day": "2026-11-07",
@@ -418,62 +386,6 @@
         },
         {
             "day": "2026-11-07",
-            "end": "15:30",
-            "stage": "stereoBLOOM",
-            "start": "14:30",
-            "sunset": false,
-            "billing": "Gabss"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "16:30",
-            "stage": "stereoBLOOM",
-            "start": "15:30",
-            "sunset": false,
-            "billing": "Greg 99"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "18:30",
-            "stage": "circuitGROUNDS",
-            "start": "17:30",
-            "sunset": false,
-            "billing": "Jkyl & Hyde"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "00:00",
-            "stage": "kineticFIELD",
-            "start": "22:31",
-            "sunset": false,
-            "billing": "Kaskade"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "16:00",
-            "stage": "neonGARDEN",
-            "start": "14:30",
-            "sunset": false,
-            "billing": "Kinahau"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "19:30",
-            "stage": "circuitGROUNDS",
-            "start": "18:30",
-            "sunset": false,
-            "billing": "Layz"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "15:30",
-            "stage": "circuitGROUNDS",
-            "start": "14:30",
-            "sunset": false,
-            "billing": "Madvktm"
-        },
-        {
-            "day": "2026-11-07",
             "end": "14:30",
             "stage": "neonGARDEN",
             "start": "13:00",
@@ -482,11 +394,19 @@
         },
         {
             "day": "2026-11-07",
-            "end": null,
-            "stage": null,
-            "start": null,
+            "end": "14:30",
+            "stage": "stereoBLOOM",
+            "start": "13:00",
             "sunset": false,
-            "billing": "Max Dean B2B Luke Dean"
+            "billing": "Alves"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "14:00",
+            "stage": "CASA BACARDÍ",
+            "start": "13:00",
+            "sunset": false,
+            "billing": "JFUSE"
         },
         {
             "day": "2026-11-07",
@@ -498,67 +418,51 @@
         },
         {
             "day": "2026-11-07",
-            "end": "17:30",
-            "stage": "neonGARDEN",
-            "start": "16:00",
+            "end": "15:00",
+            "stage": "CASA BACARDÍ",
+            "start": "14:00",
             "sunset": false,
-            "billing": "Miguelle & Tons"
+            "billing": "Landis"
         },
         {
             "day": "2026-11-07",
-            "end": "13:33",
-            "stage": "kineticFIELD",
-            "start": "13:00",
-            "sunset": false,
-            "billing": "Monoky"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "20:05",
-            "stage": "kineticFIELD",
-            "start": "18:57",
-            "sunset": false,
-            "billing": "Nico Moreno"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "21:35",
+            "end": "15:30",
             "stage": "circuitGROUNDS",
-            "start": "20:30",
+            "start": "14:30",
             "sunset": false,
-            "billing": "Ray Volpe"
+            "billing": "Madvktm"
         },
         {
             "day": "2026-11-07",
-            "end": "21:15",
+            "end": "16:00",
+            "stage": "neonGARDEN",
+            "start": "14:30",
+            "sunset": false,
+            "billing": "Kinahau"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "15:30",
             "stage": "stereoBLOOM",
-            "start": "20:00",
+            "start": "14:30",
             "sunset": false,
-            "billing": "Roddy Lima"
+            "billing": "Gabss"
         },
         {
             "day": "2026-11-07",
-            "end": "20:30",
-            "stage": "neonGARDEN",
-            "start": "19:00",
-            "sunset": true,
-            "billing": "Rossi."
-        },
-        {
-            "day": "2026-11-07",
-            "end": "22:45",
-            "stage": "circuitGROUNDS",
-            "start": "21:35",
-            "sunset": false,
-            "billing": "Skull Machine"
-        },
-        {
-            "day": "2026-11-07",
-            "end": "21:13",
+            "end": "15:33",
             "stage": "kineticFIELD",
-            "start": "20:05",
+            "start": "14:33",
             "sunset": false,
-            "billing": "Steve Aoki"
+            "billing": "Twinsick"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "16:30",
+            "stage": "CASA BACARDÍ",
+            "start": "15:00",
+            "sunset": false,
+            "billing": "RAJE"
         },
         {
             "day": "2026-11-07",
@@ -570,99 +474,251 @@
         },
         {
             "day": "2026-11-07",
-            "end": "15:33",
+            "end": "16:30",
+            "stage": "stereoBLOOM",
+            "start": "15:30",
+            "sunset": false,
+            "billing": "Greg 99"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "16:33",
             "stage": "kineticFIELD",
-            "start": "14:33",
+            "start": "15:33",
             "sunset": false,
-            "billing": "Twinsick"
+            "billing": "Aaron Hibell"
         },
         {
-            "day": "2026-11-08",
-            "end": "15:25",
-            "stage": "circuitGROUNDS",
-            "start": "14:25",
-            "sunset": false,
-            "billing": "A Little Sound"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "18:00",
+            "day": "2026-11-07",
+            "end": "17:30",
             "stage": "neonGARDEN",
+            "start": "16:00",
+            "sunset": false,
+            "billing": "Miguelle & Tons"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "17:30",
+            "stage": "circuitGROUNDS",
             "start": "16:30",
             "sunset": false,
-            "billing": "Adrián Mills"
+            "billing": "Avello"
         },
         {
-            "day": "2026-11-08",
-            "end": "21:15",
-            "stage": "kineticFIELD",
-            "start": "20:02",
-            "sunset": false,
-            "billing": "Alok"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "15:35",
-            "stage": "kineticFIELD",
-            "start": "14:35",
-            "sunset": false,
-            "billing": "Ar/Co"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "22:55",
-            "stage": "circuitGROUNDS",
-            "start": "21:50",
-            "sunset": false,
-            "billing": "Atliens"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "22:50",
+            "day": "2026-11-07",
+            "end": "17:30",
             "stage": "stereoBLOOM",
-            "start": "21:40",
+            "start": "16:30",
             "sunset": false,
-            "billing": "Boogie T"
+            "billing": "Fallon"
         },
         {
-            "day": "2026-11-08",
-            "end": "21:00",
+            "day": "2026-11-07",
+            "end": "18:00",
+            "stage": "CASA BACARDÍ",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Allnightkev"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "17:38",
+            "stage": "kineticFIELD",
+            "start": "16:33",
+            "sunset": false,
+            "billing": "Acraze B2B Cid"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "18:30",
+            "stage": "circuitGROUNDS",
+            "start": "17:30",
+            "sunset": false,
+            "billing": "Jkyl & Hyde"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "18:45",
+            "stage": "stereoBLOOM",
+            "start": "17:30",
+            "sunset": true,
+            "billing": "Devault"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "18:57",
+            "stage": "kineticFIELD",
+            "start": "17:38",
+            "sunset": true,
+            "billing": "Alan Walker"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "19:30",
+            "stage": "CASA BACARDÍ",
+            "start": "18:00",
+            "sunset": false,
+            "billing": "Gabss (2nd Set)"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "19:30",
+            "stage": "circuitGROUNDS",
+            "start": "18:30",
+            "sunset": false,
+            "billing": "Layz"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "20:00",
+            "stage": "stereoBLOOM",
+            "start": "18:45",
+            "sunset": false,
+            "billing": "Discip"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "20:05",
+            "stage": "kineticFIELD",
+            "start": "18:57",
+            "sunset": false,
+            "billing": "Nico Moreno"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "20:30",
             "stage": "neonGARDEN",
+            "start": "19:00",
+            "sunset": false,
+            "billing": "Rossi."
+        },
+        {
+            "day": "2026-11-07",
+            "end": "20:30",
+            "stage": "circuitGROUNDS",
             "start": "19:30",
             "sunset": false,
-            "billing": "Boys Noize B2B Brutalismus 3000"
+            "billing": "Alleycvt"
         },
         {
-            "day": "2026-11-08",
-            "end": "16:10",
-            "stage": "stereoBLOOM",
-            "start": "15:10",
+            "day": "2026-11-07",
+            "end": "21:00",
+            "stage": "CASA BACARDÍ",
+            "start": "19:30",
             "sunset": false,
-            "billing": "Chef Boyarbeatz"
+            "billing": "CC Love"
         },
         {
-            "day": "2026-11-08",
-            "end": "15:10",
+            "day": "2026-11-07",
+            "end": "21:15",
             "stage": "stereoBLOOM",
-            "start": "14:10",
+            "start": "20:00",
             "sunset": false,
-            "billing": "Cøntra"
+            "billing": "Roddy Lima"
         },
         {
-            "day": "2026-11-08",
-            "end": "21:50",
+            "day": "2026-11-07",
+            "end": "21:13",
+            "stage": "kineticFIELD",
+            "start": "20:05",
+            "sunset": false,
+            "billing": "Steve Aoki"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "21:35",
             "stage": "circuitGROUNDS",
-            "start": "20:45",
+            "start": "20:30",
             "sunset": false,
-            "billing": "Deorro B2B DJ Diesel"
+            "billing": "Ray Volpe"
         },
         {
-            "day": "2026-11-08",
+            "day": "2026-11-07",
+            "end": "22:00",
+            "stage": "neonGARDEN",
+            "start": "20:30",
+            "sunset": false,
+            "billing": "Dennis Cruz"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "22:30",
+            "stage": "CASA BACARDÍ",
+            "start": "21:00",
+            "sunset": false,
+            "billing": "Juos"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "22:31",
+            "stage": "kineticFIELD",
+            "start": "21:13",
+            "sunset": false,
+            "billing": "Disco Lines"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "22:30",
+            "stage": "stereoBLOOM",
+            "start": "21:15",
+            "sunset": false,
+            "billing": "Ayybo"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "22:45",
+            "stage": "circuitGROUNDS",
+            "start": "21:35",
+            "sunset": false,
+            "billing": "Skull Machine"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "00:00",
+            "stage": "neonGARDEN",
+            "start": "22:00",
+            "sunset": false,
+            "billing": "Franky Rizardo"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "00:00",
+            "stage": "stereoBLOOM",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "Chasewest"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "00:00",
+            "stage": "CASA BACARDÍ",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "Rommii"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "00:00",
+            "stage": "kineticFIELD",
+            "start": "22:31",
+            "sunset": false,
+            "billing": "Kaskade"
+        },
+        {
+            "day": "2026-11-07",
+            "end": "00:00",
+            "stage": "circuitGROUNDS",
+            "start": "22:45",
+            "sunset": false,
+            "billing": "Alison Wonderland"
+        },
+        {
+            "day": "2026-11-07",
             "end": null,
             "stage": null,
             "start": null,
             "sunset": false,
-            "billing": "Discovery Project"
+            "billing": "Max Dean B2B Luke Dean"
         },
         {
             "day": "2026-11-08",
@@ -674,75 +730,11 @@
         },
         {
             "day": "2026-11-08",
-            "end": "22:28",
-            "stage": "kineticFIELD",
-            "start": "21:15",
-            "sunset": false,
-            "billing": "Hardwell"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "00:00",
-            "stage": "circuitGROUNDS",
-            "start": "22:55",
-            "sunset": false,
-            "billing": "Holy Priest"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "20:02",
-            "stage": "kineticFIELD",
-            "start": "18:54",
-            "sunset": false,
-            "billing": "I Hate Models"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "17:35",
-            "stage": "kineticFIELD",
-            "start": "16:35",
-            "sunset": false,
-            "billing": "Ian Asher"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "16:35",
-            "stage": "kineticFIELD",
-            "start": "15:35",
-            "sunset": false,
-            "billing": "Jessica Audiffred"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "16:35",
-            "stage": "circuitGROUNDS",
-            "start": "15:25",
-            "sunset": false,
-            "billing": "Kaivon"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "22:30",
+            "end": "15:00",
             "stage": "neonGARDEN",
-            "start": "21:00",
+            "start": "13:00",
             "sunset": false,
-            "billing": "Ki/Ki"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "00:00",
-            "stage": "neonGARDEN",
-            "start": "22:30",
-            "sunset": false,
-            "billing": "Klangkuenstler"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "19:20",
-            "stage": "stereoBLOOM",
-            "start": "18:15",
-            "sunset": false,
-            "billing": "Know Good"
+            "billing": "Ultrathem"
         },
         {
             "day": "2026-11-08",
@@ -754,67 +746,51 @@
         },
         {
             "day": "2026-11-08",
-            "end": "20:45",
-            "stage": "circuitGROUNDS",
-            "start": "19:45",
+            "end": "14:00",
+            "stage": "CASA BACARDÍ",
+            "start": "13:00",
             "sunset": false,
-            "billing": "Maddix"
+            "billing": "Bryan Softwell B2B Chini"
         },
         {
             "day": "2026-11-08",
-            "end": "19:30",
-            "stage": "neonGARDEN",
-            "start": "18:00",
-            "sunset": true,
-            "billing": "Marlon Hoffstadt"
+            "end": "14:25",
+            "stage": "circuitGROUNDS",
+            "start": "13:10",
+            "sunset": false,
+            "billing": "Bella Grazia"
         },
         {
             "day": "2026-11-08",
-            "end": "00:00",
+            "end": "15:00",
+            "stage": "CASA BACARDÍ",
+            "start": "14:00",
+            "sunset": false,
+            "billing": "Marian (BR)"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "15:10",
+            "stage": "stereoBLOOM",
+            "start": "14:10",
+            "sunset": false,
+            "billing": "Cøntra"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "15:25",
+            "stage": "circuitGROUNDS",
+            "start": "14:25",
+            "sunset": false,
+            "billing": "A Little Sound"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "15:35",
             "stage": "kineticFIELD",
-            "start": "22:28",
+            "start": "14:35",
             "sunset": false,
-            "billing": "Martin Garrix"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "19:45",
-            "stage": "circuitGROUNDS",
-            "start": "18:40",
-            "sunset": false,
-            "billing": "Meduza"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "18:40",
-            "stage": "circuitGROUNDS",
-            "start": "17:25",
-            "sunset": true,
-            "billing": "Of the Trees"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "17:10",
-            "stage": "stereoBLOOM",
-            "start": "16:10",
-            "sunset": false,
-            "billing": "Phrva"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "21:40",
-            "stage": "stereoBLOOM",
-            "start": "20:30",
-            "sunset": false,
-            "billing": "Ravenscoon"
-        },
-        {
-            "day": "2026-11-08",
-            "end": "17:25",
-            "stage": "circuitGROUNDS",
-            "start": "16:35",
-            "sunset": false,
-            "billing": "San Holo"
+            "billing": "Ar/Co"
         },
         {
             "day": "2026-11-08",
@@ -826,11 +802,91 @@
         },
         {
             "day": "2026-11-08",
+            "end": "16:30",
+            "stage": "CASA BACARDÍ",
+            "start": "15:00",
+            "sunset": false,
+            "billing": "BROSA"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "16:10",
+            "stage": "stereoBLOOM",
+            "start": "15:10",
+            "sunset": false,
+            "billing": "Chef Boyarbeatz"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "16:35",
+            "stage": "circuitGROUNDS",
+            "start": "15:25",
+            "sunset": false,
+            "billing": "Kaivon"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "16:35",
+            "stage": "kineticFIELD",
+            "start": "15:35",
+            "sunset": false,
+            "billing": "Jessica Audiffred"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "17:10",
+            "stage": "stereoBLOOM",
+            "start": "16:10",
+            "sunset": false,
+            "billing": "Phrva"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "18:00",
+            "stage": "neonGARDEN",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Adrián Mills"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "18:00",
+            "stage": "CASA BACARDÍ",
+            "start": "16:30",
+            "sunset": false,
+            "billing": "Alves"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "17:35",
+            "stage": "kineticFIELD",
+            "start": "16:35",
+            "sunset": false,
+            "billing": "Ian Asher"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "17:25",
+            "stage": "circuitGROUNDS",
+            "start": "16:35",
+            "sunset": false,
+            "billing": "San Holo"
+        },
+        {
+            "day": "2026-11-08",
             "end": "18:15",
             "stage": "stereoBLOOM",
             "start": "17:10",
             "sunset": false,
             "billing": "Sippy"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "18:40",
+            "stage": "circuitGROUNDS",
+            "start": "17:25",
+            "sunset": true,
+            "billing": "Of the Trees"
         },
         {
             "day": "2026-11-08",
@@ -842,11 +898,163 @@
         },
         {
             "day": "2026-11-08",
+            "end": "19:30",
+            "stage": "neonGARDEN",
+            "start": "18:00",
+            "sunset": true,
+            "billing": "Marlon Hoffstadt"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "19:30",
+            "stage": "CASA BACARDÍ",
+            "start": "18:00",
+            "sunset": false,
+            "billing": "Joe Vanditti"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "19:20",
+            "stage": "stereoBLOOM",
+            "start": "18:15",
+            "sunset": false,
+            "billing": "Know Good"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "19:45",
+            "stage": "circuitGROUNDS",
+            "start": "18:40",
+            "sunset": false,
+            "billing": "Meduza"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "20:02",
+            "stage": "kineticFIELD",
+            "start": "18:54",
+            "sunset": false,
+            "billing": "I Hate Models"
+        },
+        {
+            "day": "2026-11-08",
             "end": "20:30",
             "stage": "stereoBLOOM",
             "start": "19:20",
             "sunset": false,
             "billing": "Taiki Nulight"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "21:00",
+            "stage": "neonGARDEN",
+            "start": "19:30",
+            "sunset": false,
+            "billing": "Boys Noize B2B Brutalismus 3000"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "21:00",
+            "stage": "CASA BACARDÍ",
+            "start": "19:30",
+            "sunset": false,
+            "billing": "Andrea Quintero"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "20:45",
+            "stage": "circuitGROUNDS",
+            "start": "19:45",
+            "sunset": false,
+            "billing": "Maddix"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "21:15",
+            "stage": "kineticFIELD",
+            "start": "20:02",
+            "sunset": false,
+            "billing": "Alok"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "21:40",
+            "stage": "stereoBLOOM",
+            "start": "20:30",
+            "sunset": false,
+            "billing": "Ravenscoon"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "21:50",
+            "stage": "circuitGROUNDS",
+            "start": "20:45",
+            "sunset": false,
+            "billing": "Deorro B2B DJ Diesel"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "22:30",
+            "stage": "neonGARDEN",
+            "start": "21:00",
+            "sunset": false,
+            "billing": "Ki/Ki"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "22:30",
+            "stage": "CASA BACARDÍ",
+            "start": "21:00",
+            "sunset": false,
+            "billing": "Kofla"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "22:28",
+            "stage": "kineticFIELD",
+            "start": "21:15",
+            "sunset": false,
+            "billing": "Hardwell"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "22:50",
+            "stage": "stereoBLOOM",
+            "start": "21:40",
+            "sunset": false,
+            "billing": "Boogie T"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "22:55",
+            "stage": "circuitGROUNDS",
+            "start": "21:50",
+            "sunset": false,
+            "billing": "Atliens"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "00:00",
+            "stage": "kineticFIELD",
+            "start": "22:28",
+            "sunset": false,
+            "billing": "Martin Garrix"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "00:00",
+            "stage": "neonGARDEN",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "Klangkuenstler"
+        },
+        {
+            "day": "2026-11-08",
+            "end": "00:00",
+            "stage": "CASA BACARDÍ",
+            "start": "22:30",
+            "sunset": false,
+            "billing": "William Kiss"
         },
         {
             "day": "2026-11-08",
@@ -858,11 +1066,19 @@
         },
         {
             "day": "2026-11-08",
-            "end": "15:00",
-            "stage": "neonGARDEN",
-            "start": "13:00",
+            "end": "00:00",
+            "stage": "circuitGROUNDS",
+            "start": "22:55",
             "sunset": false,
-            "billing": "Ultrathem"
+            "billing": "Holy Priest"
+        },
+        {
+            "day": "2026-11-08",
+            "end": null,
+            "stage": null,
+            "start": null,
+            "sunset": false,
+            "billing": "Discovery Project"
         }
     ]
 }
